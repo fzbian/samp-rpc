@@ -13,7 +13,7 @@ Follow the steps to add it
 3. Now every time you want to enter the server open `seoul.exe`, you can put it in your task bar or create a shortcut on the desktop
 
 ## Screenshots
-![](https://s116.convertio.me/p/LzE-hVB_4Map8_cFUtR33g/2e0ef0e275b9edf89cfc80383a6a6549/seoul.gif)
+![](https://github.com/fzbian/samp-rpc/blob/main/readmeAssets/seoul.gif?raw=true)
 ![](https://media.discordapp.net/attachments/995065675108335757/995065683572428860/unknown.png)  
 
 ## Contributors
